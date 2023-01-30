@@ -1,0 +1,7 @@
+name: BuildSystemv1
+version: '${project.version}'
+main: de.xnme.riiqz.buildsystemv1.Main.Main
+api-version: 1.19
+authors: [ xRiiqz ]
+description: Buildsystem for xnme
+website: xnme.de

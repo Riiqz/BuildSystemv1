@@ -1,0 +1,7 @@
+name: BuildSystem
+author: xRiiqz
+version: 0.2
+
+
+perms: build.team // rechte für supporter usw.
+        build.builder // für admins
